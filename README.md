@@ -1,5 +1,3 @@
-Sure! Here's a polished GitHub README for your Steam promotion checker script:
-
 ---
 
 # Steam Promotion Checker
