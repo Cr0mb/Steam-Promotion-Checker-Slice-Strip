@@ -4,6 +4,9 @@ A Python script that continuously monitors Steam for **high-discount promotions 
 
 ---
 
+![image](https://github.com/user-attachments/assets/4e1294fd-6c64-4553-82af-16e6e7f1d91b)
+
+
 ## Features
 
 * Automatically fetches daily Steam promotions with large discounts.
@@ -83,4 +86,5 @@ The script will print status messages to the console and send email alerts when 
   * Steam may have changed their API or endpoint — check the URL and JSON structure.
 
 ---
+
 
